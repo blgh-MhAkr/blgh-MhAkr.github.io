@@ -7,8 +7,10 @@
 
 .info {
     padding:5px 0;
-    background-color: #FFD700;
+    /* background-color: #FFD700; */
+    background-image: linear-gradient(to right, #F7A300, #FFD700, #ffFa7A);
 }
+
 a {
     color: inherit;
     text-decoration: none;
@@ -32,7 +34,8 @@ a {
 }
 
 header {
-    background-color: #FFF79A;
+    /* background-color: #FFF79A; */
+    background-image: linear-gradient(to top left, #F7A300, #FFD700, #ffFa7A);
 }
 
 header h4 {
@@ -103,7 +106,8 @@ section h3 {
     text-align: left;
 }
 .fitur {
-    background-color: #FFD700;
+    /* background-color: #FFD700; */
+    background-image: linear-gradient(to top, #F7A300, #FFD700, #ffFa7A);
     
 }
 
