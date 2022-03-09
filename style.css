@@ -8,7 +8,7 @@
 .info {
     padding:5px 0;
     /* background-color: #FFD700; */
-    background-image: linear-gradient(to right, #F7A300, #FFD700, #ffFa7A);
+    background-image: linear-gradient(to right, #F7A300, #FFD700, #FFFA7A);
 }
 
 a {
@@ -35,7 +35,7 @@ a {
 
 header {
     /* background-color: #FFF79A; */
-    background-image: linear-gradient(to top left, #F7A300, #FFD700, #ffFa7A);
+    background-image: linear-gradient(to top left, #F7A300, #FFD700, #FFFA7A);
 }
 
 header h4 {
