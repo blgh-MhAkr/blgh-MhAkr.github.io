@@ -62,10 +62,12 @@ header ul li a:hover {
 }
 
 .banner {
-    height: 65vh;
+    height: 45vh;
     border: 1px solid;
     background-image: url(img/Sekolah\ 1.jpg);
-    background-size: cover ;/*1920px 1080px*/
+    background-size: cover ;
+    /* 1920px 1080px */
+    /* background-size: 50%; */
     position: relative;
     display: flex;
     justify-content: center;

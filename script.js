@@ -1,4 +1,4 @@
-const txtElement = ['********', 'xxxxxxxx', '++++++++'];
+const txtElement = ['~ Info Update ~', 'Keamanan Komputer', '1] Aspek Keamanan Komputer', '2] Access Control', '3] Authentication', '4] Kriptografi'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt= '';
